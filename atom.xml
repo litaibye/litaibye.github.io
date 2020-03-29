@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Tliens</title>
-  <icon>https://www.gravatar.com/avatar/71ccfa8e8552c9d8775d68b75462bc16</icon>
+  <icon>https://www.gravatar.com/avatar/488c3c680b4f38862e566c7460207d55</icon>
   <subtitle>面朝大海，春暖花开</subtitle>
   <link href="/atom.xml" rel="self"/>
   
@@ -10,8 +10,8 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>Eric Shen</name>
-    <email>shenyu@hotmail.com</email>
+    <name>Quinn Von</name>
+    <email>Tliens@163.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
