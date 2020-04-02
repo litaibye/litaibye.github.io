@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-01T15:10:49.615Z</updated>
+  <updated>2020-04-02T18:59:14.535Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于我们</title>
+    <link href="http://yoursite.com/2020/04/03/about-us/"/>
+    <id>http://yoursite.com/2020/04/03/about-us/</id>
+    <published>2020-04-02T18:52:19.000Z</published>
+    <updated>2020-04-02T18:59:14.535Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="关于我们" scheme="http://yoursite.com/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/"/>
+    
+  </entry>
   
   <entry>
     <title>联系我们</title>
