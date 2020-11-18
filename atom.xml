@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-02T18:59:14.535Z</updated>
+  <updated>2020-11-18T17:30:42.685Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,55 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>联系我们</title>
+    <link href="http://yoursite.com/2020/11/20/supports/"/>
+    <id>http://yoursite.com/2020/11/20/supports/</id>
+    <published>2020-11-20T13:13:18.000Z</published>
+    <updated>2020-11-18T17:30:42.685Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="技术支持" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今日扫雷游戏 隐私条款</title>
+    <link href="http://yoursite.com/2020/11/19/20201119private/"/>
+    <id>http://yoursite.com/2020/11/19/20201119private/</id>
+    <published>2020-11-18T17:29:22.000Z</published>
+    <updated>2020-11-18T17:32:03.691Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;更新日期：2020年3月29日&lt;/p&gt;
+&lt;p&gt;生效日期：2020年3月29日&lt;/p&gt;
+&lt;h2 id=&quot;本隐私政策将帮助您了解以下主要政策：&quot;&gt;&lt;a href=&quot;#本隐私政策将帮助您了解以下主要政策：&quot; class=&quot;headerlink&quot; title=&quot;本隐私政策将帮助您了解以下主要政策：&quot;&gt;&lt;/a&gt;本隐私政策将帮助您了解以下主要政策：&lt;/h2&gt;&lt;p&gt;1）为了保障产品的核心功能以及其他功能正常运行，我们会收集您的部分必要信息；&lt;/p&gt;
+&lt;p&gt;2)  我们不会向第三方共享、提供、转让或者从第三方获取您的个人信息，除非经过您的同意；&lt;/p&gt;
+&lt;p&gt;3）我们将努力采取合理的安全措施来保护您的个人信息。特别的，我们将采用行业内通行的方式及尽最大的商业努力来保护您个人敏感信息的安全；&lt;/p&gt;
+&lt;p&gt;4）您访问、更正、删除个人信息、撤回同意授权，以及投诉举报的方式。&lt;/p&gt;
+&lt;p&gt;如您不同意本隐私政策并开始使用，我们将仅收集维持本软件基础功能所必需的信息，这将导致我们无法为您提供完整的产品和服务，但我们同样会采用去标识化、加密等措施来保护这些信息。当您再次使用时，为实现履行合同与服务所必需，将视为您接受和认可我们按照本政策对您的相关信息进行处理。&lt;/p&gt;
+&lt;p&gt;我们非常重视用户个人信息的保护，并且将以勤勉和审慎的义务对待这些信息。您在下载、安装、开启、浏览、使用（以下统称“使用”）本软件及相关服务时，我们将按照本隐私政策收集、保存、使用、共享、披露及保护您的个人信息。我们希望通过本隐私政策向您介绍我们对您个人信息的处理方式，因此我们建议您认真完整地阅读本隐私政策的所有条款。其中，与您信息及权利相关的内容将以加粗的形式提示您注意，请您重点阅读以下内容：&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>关于我们</title>
@@ -38,31 +87,6 @@
     
     
       <category term="关于我们" scheme="http://yoursite.com/tags/%E5%85%B3%E4%BA%8E%E6%88%91%E4%BB%AC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>联系我们</title>
-    <link href="http://yoursite.com/2020/04/01/supports/"/>
-    <id>http://yoursite.com/2020/04/01/supports/</id>
-    <published>2020-04-01T13:13:18.000Z</published>
-    <updated>2020-04-01T15:10:49.615Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="技术支持" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF%E6%94%AF%E6%8C%81/"/>
     
   </entry>
   
